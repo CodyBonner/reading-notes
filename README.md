@@ -3,7 +3,7 @@
 First in my family to attend and graduate from a university! I have a background in computer science so i took a variety of computer language course. So if you have any questions feel free to ask and i'll help as best as i can. I'm from the food service industry for the past five years, and recently accepted a job as a merchandiser for Dietz & Watson. I'm always looking to expand my computer knowledge from creating custom computers, to the nitty gritty of talking like a computer. If you want to know more about me. **JUST ASK!**
 
 **My GitHub Profile Page**
-![Cody Bonner GitHub](https://github.com/CodyBonner)
+![Cody Bonner GitHub](https://www.github.com/CodyBonner)
 
 
 ## Growth Mindset:
