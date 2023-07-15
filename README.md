@@ -4,4 +4,4 @@ Notes documents for CodeX
 
 ### Third level heading
 
-[GitHub]https://github.com
+[GitHub](https://github.com)
