@@ -29,8 +29,3 @@ To generate a link such as a link to a blog or a youtube channel, you first need
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 
 Three symbols that can be used to create unordered (bulleted lists) are ' - ', ' * ', as well as ' + '
-
-
-Test Action
-'dragonfly'
-& dragonfly
