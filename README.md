@@ -4,4 +4,4 @@ Notes documents for CodeX
 
 ### Third level heading
 
-[GitHub](https://github.com)
+[Growth Mindset Cody's View](https://CodyBonner.github.io/reading-notes)
