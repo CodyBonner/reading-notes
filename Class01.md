@@ -16,7 +16,7 @@ The largest heading is done using the first # it will make the heading under the
 
 **How many do you need to create the smallest heading?**
 
-The smallest heading varies based on how many headings you have on your webpage. If you have two headings then two '#' symbols will create your smallest heading, however if you have five the max '#' then the fifth heading will be your smallest heading.
+The smallest heading varies based on how many headings you have on your webpage. If you have two headings then two '#' symbols will create your smallest heading, however if you have six the max '#' then the sixth heading will be your smallest heading.
 
 **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
