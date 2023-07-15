@@ -1,6 +1,7 @@
 # **Growth Mindset**
 What does growth mindset mean and why is it important?
-![Question Mark](https://toppng.com/uploads/preview/erson-question-mark-png-download-powerpoint-presentation-question-mark-gif-115630360884u3n0ebp6w.png)
+
+![Question Mark](https://www.netanimations.net/Animated-gif-spinning-question-mark-picture-moving.gif)
 
 ## My View on Growth mindset:
 Growth mindset to me means not limiting yourself to what you already believe you can do, it means breaking through your current ceiling
