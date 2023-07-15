@@ -1,4 +1,5 @@
 **What is Markdown?**
+
 The best way I could describe markdown is that it's a text editor using a specific computer language that makes website creation easy and effective for anyone who wants to learn basics of computer syntax or language learning.
 
 **Why do we use Markdown?**
@@ -23,6 +24,8 @@ For making a text bold the symbol that is required is the star '*' to be more ac
 
 **How do you create a link with Markdown?**
 
-To generate a link such as a link to a blog or a youtube channel, you will write out the code #ADD8E6 
+To generate a link such as a link to a blog or a youtube channel, you first need what we call an inline link what this means is first we write the '[ ]' and inside this bracket is where you can write the name of the link for example '[Youtube Link]' then you would follow it with a set of closed parenthese '()' written such as '[Youtube Link]()' in this parenthese you will put the URL of your link, '[Youtube Link](https://www.youtube.com)' Doing this will create a link on your site that says Youtube Link and make it available to be clicked and once clicked it will redirect the viewer to the designated website, in this case https://www.youtube.com
+
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 
+Three symbols that can be used to create unordered (bulleted lists) are ' - ', ' * ', as well as ' + '
