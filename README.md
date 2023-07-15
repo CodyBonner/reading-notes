@@ -19,4 +19,4 @@ are normal but they do not have to define who you are. Growing is understanding 
   > **Keep Moving Forward**
    ![Walt Disney Quote](https://th.bing.com/th/id/R.f810850dadec09d1be6c1c1a9953a54e?rik=i9e6L9lhh6EciQ&riu=http%3a%2f%2fcdn2.geckoandfly.com%2fwp-content%2fuploads%2f2014%2f04%2fwalt-disney-quotes12.jpg&ehk=Da2r%2bxD4hEv0uM8OrfBGta5PNb%2flD0kdjhPIIXJrHdo%3d&risl=&pid=ImgRaw&r=0)
 
-[Growth Mindset Cody's View](https://CodyBonner.github.io/reading-notes)
+[Growth Mindset Inspirational Video](https://youtu.be/xTbV6OvNiX8)
