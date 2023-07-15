@@ -3,15 +3,26 @@ The best way I could describe markdown is that it's a text editor using a specif
 
 **Why do we use Markdown?**
 
+Markdown has a variety of uses from document creation, writing books, making presentations, but the most common use for MarkDown is the easy creation of websites!
+
 **What symbol will create a heading in Markdown?**
+
+The symbol that is used in Markdown to denote a heading is the '#' symbol, one # will denote header one, ## for header two, ### for header three and so forth.
 
 **How many do you need to create the largest heading?**
 
+The largest heading is done using the first # it will make the heading under the inclination that it'll be used at the beginning of the webpage.
+
 **How many do you need to create the smallest heading?**
+
+The smallest heading varies based on how many headings you have on your webpage. If you have two headings then two '#' symbols will create your smallest heading, however if you have five the max '#' then the fifth heading will be your smallest heading.
 
 **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
+For making a text bold the symbol that is required is the star '*' to be more accurate you need two of them on each side of the text you would like to be bold. For italicized text you also need this symbol except you need a space between them such as ' * * ' on either side of the text you need italicized. Or you can use the underscore '_' symbol in the same format, however the star symbol is more commonly preferred.
+
 **How do you create a link with Markdown?**
 
+To generate a link such as a link to a blog or a youtube channel, you will write out the code #ADD8E6 
 **What are the three symbols you can use to create an unordered (bulleted) list with Markdown?**
 
