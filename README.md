@@ -1,14 +1,22 @@
-# **Growth Mindset**
+# **Get to know me!**
+
+First in my family to attend and graduate from a university! I have a background in computer science so i took a variety of computer language course. So if you have any questions feel free to ask and i'll help as best as i can. I'm from the food service industry for the past five years, and recently accepted a job as a merchandiser for Dietz & Watson. I'm always looking to expand my computer knowledge from creating custom computers, to the nitty gritty of talking like a computer. If you want to know more about me. **JUST ASK!**
+
+
+## Growth Mindset:
+
 What does growth mindset mean and why is it important?
 
 ![Question Mark](https://th.bing.com/th/id/OIP.CqaY2Hx9-JAsEoXzhOYh7AHaG7?pid=ImgDet&rs=1)
 
-## My View on Growth mindset:
+### What does Growth Mindset mean to me?:
+
 Growth mindset to me means not limiting yourself to what you already believe you can do, it means breaking through your current ceiling
 and reaching an even higher level. However that does not mean to only work hard, it also means understanding your current limits 
 and making sure to maintain self preserverance to attain proper growth. 
 
-### Things to remember about growth
+#### Things to remember about growth
+
 1. Things to remember when it comes to growth is to remember that when challenged with adversity or self doubt, understand that these things
 are normal but they do not have to define who you are. Growing is understanding and shattering those limits and seeing just how far you can go.
 
@@ -19,4 +27,5 @@ are normal but they do not have to define who you are. Growing is understanding 
   > **Keep Moving Forward**
    ![Walt Disney Quote](https://th.bing.com/th/id/R.f810850dadec09d1be6c1c1a9953a54e?rik=i9e6L9lhh6EciQ&riu=http%3a%2f%2fcdn2.geckoandfly.com%2fwp-content%2fuploads%2f2014%2f04%2fwalt-disney-quotes12.jpg&ehk=Da2r%2bxD4hEv0uM8OrfBGta5PNb%2flD0kdjhPIIXJrHdo%3d&risl=&pid=ImgRaw&r=0)
 
+##### Quick Links
 [Growth Mindset Inspirational Video](https://youtu.be/xTbV6OvNiX8)
