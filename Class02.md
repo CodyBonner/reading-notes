@@ -1,6 +1,7 @@
 **What are four important features to look for in a text editor?**
 
 The first and most important thing to look for in a text editor is do you enjoy using the text editor?
+
 Key Features:
 1. Code Completion
 2. Syntax Highlighting
