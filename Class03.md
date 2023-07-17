@@ -76,4 +76,4 @@ Good job you made it through! A quick recap of what was explained:
 
   **Sending changed files to GitHub**
   
-    - How Github is relevent with our changed files, and how to push those files to GitHub
+  - How Github is relevent with our changed files, and how to push those files to GitHub
