@@ -45,3 +45,10 @@ This line is reaching two notches into the directory in a relative sense. No spe
 **ls projects/new-project**
 This command is listing out folders that are involved in the directory of projects and it's sub directory new-project.
 
+
+###### Useful Links
+**[Home](https://codybonner.github.io/reading-notes/)**
+
+**[Learning Mark Down](https://codybonner.github.io/reading-notes/Class01)**
+
+**[Revisions And The Cloud](https://codybonner.github.io/reading-notes/Class03)**
