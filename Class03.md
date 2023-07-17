@@ -1,6 +1,6 @@
 # Revisions and the Cloud
 
-1. **What is Version Control?**
+- **What is Version Control?**
 
 Version Control is a system designed to allow the user the option of visiting older versions of a file that has been created. For example if there is a file that had X amount of content on it, and it was later saved with extra or withheld information than the first, the user can access it! Version control also has the nifty option of affording the user the option of tracking modifications, modifying individuals as well as compare changes to different versions of the file. Thanks to this use of Version Control System also known as VCS user error or mistakes can be easily rectified.
 
@@ -16,7 +16,7 @@ Another useful feature is known as Git. Well you might be wondering, **What is G
 
 Now say you as the user made countless updates and changes and needed it on a seperate project or what we call a repository. You wouldn't want to type it all up all over again just to make a few tweaks to make it work for this new project. Well luckily Cloning was invented!
 
-2. **Well what is cloning in Git?**
+- **Well what is cloning in Git?**
 
 Cloning is exactly what it sounds like, it's taking the same information of one repository including all versions of files inside the repository and creates a directory known as 'test' with an already initialized .git directory inside of it. Like making a clone of a person, it takes the genetic makeup of one person,or the saved versions of those files, and makes a completely second person with the same genetic makeup.
 
