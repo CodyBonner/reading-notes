@@ -12,7 +12,11 @@ However it is important to note that there are three types of version control: l
 
 To put it simply, Local Version Control means changes to the original file are stored on a local basis, such as ona  thumb or hard drive. Centralized Version Control System also known as CVCS is very similar to a Local Version Control as it uses a single location for storing all of the changes done to the file such as on a server. However the difference is that multiple users have access to this file and can freely make their own changes where as with a Local Version Control is more so designed for a single user access such as on a laptop or home computer. Finally we have Distributed Version Control or DVCS, this version of Version Control goes in conjunction with CVCS as it allows for cloned or mirrored repositories of files that may have originally been on a collective server. The reason for this is to essentially have a backup in case any major issue with server based files happens such as a server crash or corrupted files. Another thing to note with DVCS is that they can easily be placed back onto a server in case of such issues.
 
-Another useful feature is known as Git. Well you might be wondering, **What is Git?** Well to put it simply, git is a DVCS that allows for those nifty file saves we mentioned earlier to be saved as snapshots. And what this means is that every time you as the user save a change to the project, or what we in the technical world call making a commit, git creates a version of the changes in a snap shot allowing you to go back and forth between the two versions. However if there is no change to the new commit. Then git will simply reference the original stored snapshot.
+Another useful feature is known as Git. Well you might be wondering, 
+
+**What is Git?** 
+
+Well to put it simply, git is a DVCS that allows for those nifty file saves we mentioned earlier to be saved as snapshots. And what this means is that every time you as the user save a change to the project, or what we in the technical world call making a commit, git creates a version of the changes in a snap shot allowing you to go back and forth between the two versions. However if there is no change to the new commit. Then git will simply reference the original stored snapshot.
 
 Now say you as the user made countless updates and changes and needed it on a seperate project or what we call a repository. You wouldn't want to type it all up all over again just to make a few tweaks to make it work for this new project. Well luckily Cloning was invented!
 
@@ -41,3 +45,25 @@ To send changes to a repository like Github, we have to use a function known as 
 
 
 To do this the function that is required is: * $ git push origin master *
+
+## Summary
+
+Good job you made it through! A quick recap of what was explained:
+**Version Control**
+ -What is Version Control
+ -Local Version Control
+ - Centralized Version Control
+ - Distributed Version Control
+
+**Git**
+  -What is Git?
+  -What Commit's are and how they are interchangable terms with Snapshot
+ 
+**Cloning in Git**
+  - What Cloning is and why it's important
+
+**SnapShots**
+  -What a snapshot is and how to create one
+
+  **Sending changed files to GitHub**
+    -How Github is relevent with our changed files, and how to push those files to GitHub
