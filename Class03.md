@@ -52,19 +52,27 @@ Good job you made it through! A quick recap of what was explained:
 
 **Version Control**
  -What is Version Control
+ 
  -Local Version Control
+ 
  - Centralized Version Control
+ 
  - Distributed Version Control
 
 **Git**
+
   -What is Git?
+  
   -What Commit's are and how they are interchangable terms with Snapshot
  
 **Cloning in Git**
+
   - What Cloning is and why it's important
 
 **SnapShots**
+
   -What a snapshot is and how to create one
 
   **Sending changed files to GitHub**
+  
     -How Github is relevent with our changed files, and how to push those files to GitHub
