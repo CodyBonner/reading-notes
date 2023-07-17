@@ -51,9 +51,10 @@ To do this the function that is required is: * $ git push origin master *
 Good job you made it through! A quick recap of what was explained:
 
 **Version Control**
- -What is Version Control
+
+ - What is Version Control
  
- -Local Version Control
+ - Local Version Control
  
  - Centralized Version Control
  
@@ -61,9 +62,9 @@ Good job you made it through! A quick recap of what was explained:
 
 **Git**
 
-  -What is Git?
+  - What is Git?
   
-  -What Commit's are and how they are interchangable terms with Snapshot
+  - What Commit's are and how they are interchangable terms with Snapshot
  
 **Cloning in Git**
 
@@ -71,8 +72,8 @@ Good job you made it through! A quick recap of what was explained:
 
 **SnapShots**
 
-  -What a snapshot is and how to create one
+  - What a snapshot is and how to create one
 
   **Sending changed files to GitHub**
   
-    -How Github is relevent with our changed files, and how to push those files to GitHub
+    - How Github is relevent with our changed files, and how to push those files to GitHub
