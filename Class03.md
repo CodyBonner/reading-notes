@@ -25,6 +25,14 @@ Cloning is exactly what it sounds like, it's taking the same information of one 
 
 3. **What is the command to track and stage files?**
 
+Single File Tracking: *git add filename*
+All File Tracking : $ git add *
+After using these commands, files are tracked and instantly staged for committing.
+
 4. **What is the command to take a snapshot of your changed files?**
 
+The command used isn't necessarily referenced as a snap shot, but as committing, the command code for this is : * $ git commit -a *
+
 5. **What is the command to send your changed files to Github?**
+
+To send changes to a repository like Github, we have to use a function known as pushing, what this means is we are pushing the changes made from our local memory to a remote repository like GitHub. To do this the function that is required is * $ git push origin master *
