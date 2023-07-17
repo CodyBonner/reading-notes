@@ -49,6 +49,7 @@ To do this the function that is required is: * $ git push origin master *
 ## Summary
 
 Good job you made it through! A quick recap of what was explained:
+
 **Version Control**
  -What is Version Control
  -Local Version Control
