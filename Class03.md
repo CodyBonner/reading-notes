@@ -37,7 +37,7 @@ The command used isn't necessarily referenced as a snap shot, but as committing,
 
 To send changes to a repository like Github, we have to use a function known as pushing, what this means is we are pushing the changes made from our local memory to a remote repository like GitHub. For visual reference, see image below: 
 
-![GitHub Push] (https://th.bing.com/th/id/OIP.6YQRVdya2iEgnhYIA43gDQAAAA?pid=ImgDet&rs=1)
+![GitHub Push](https://th.bing.com/th/id/OIP.6YQRVdya2iEgnhYIA43gDQAAAA?pid=ImgDet&rs=1)
 
 
 To do this the function that is required is: * $ git push origin master *
