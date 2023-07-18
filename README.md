@@ -7,9 +7,13 @@ First in my family to attend and graduate from a university! I have a background
 **My GitHub Profile Page**
 [Cody Bonner GitHub](https://github.com/CodyBonner)
 
+## What this site is about
+
+This site is to not only showcase my progress but to also be a backup of all that I have learned through my software development training courses.
+
 **Table of Contents**
 
-## Code 102 Reading Notes
+### Code 102 Reading Notes
 
 [class 01](code-102/class-01.md)
 
