@@ -80,5 +80,5 @@ Good job you made it through! A quick recap of what was explained:
 
 ###### Useful Links
 
-[Home](README.md)
+[Markdown](class-01.md)
 
