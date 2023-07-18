@@ -80,9 +80,9 @@ Good job you made it through! A quick recap of what was explained:
 
 ###### Useful Links
 
-**[Home](https://codybonner.github.io/reading-notes/)**
+[Home](README.md)
 
-**[Learning Mark Down](https://codybonner.github.io/reading-notes/Class01)**
+[Learning Mark Down](code-102/class-01)
 
-**[The Coder's Computer](https://codybonner.github.io/reading-notes/Class02)**
+[The Coder's Computer](code-102/class-02)
 
