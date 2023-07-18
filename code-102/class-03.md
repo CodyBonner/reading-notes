@@ -82,3 +82,5 @@ Good job you made it through! A quick recap of what was explained:
 
 [Markdown](class-01.md)
 
+[The Coder's Computer](class-02.md)
+
