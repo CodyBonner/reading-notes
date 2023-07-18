@@ -31,11 +31,3 @@ are normal but they do not have to define who you are. Growing is understanding 
 
 ##### Quick Links
 [Growth Mindset Inspirational Video](https://youtu.be/xTbV6OvNiX8)
-
-###### Useful Links
-
-**[Learning Mark Down](https://codybonner.github.io/reading-notes/Class01)**
-
-**[The Coder's Computer](https://codybonner.github.io/reading-notes/Class02)**
-
-**[Revisions And The Cloud](https://codybonner.github.io/reading-notes/Class03)**
