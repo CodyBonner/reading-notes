@@ -80,5 +80,5 @@ Good job you made it through! A quick recap of what was explained:
 
 ###### Useful Links
 
-[Home](code-102/class-04)
+[Home](README.md)
 
