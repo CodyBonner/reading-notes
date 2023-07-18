@@ -80,9 +80,5 @@ Good job you made it through! A quick recap of what was explained:
 
 ###### Useful Links
 
-[Home](README.md)
-
-[Learning Mark Down](code-102/class-01)
-
-[The Coder's Computer](code-102/class-02)
+[Home](code-102/class-04)
 
