@@ -34,3 +34,4 @@ Now does this mean that all subsequent lines of code will follow this idea? No, 
 
 ### Bonus Information
 
+[CSS Bonus Info](code-102/css-bonus-notes.md)
