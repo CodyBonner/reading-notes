@@ -9,6 +9,8 @@ It's dynamic potential includes runtime object construction, variable parameter 
 
 Variables aren't some grand item in coding, they are designated objects that developers(that's you) create to hold information. For example *x=1, y=2, z=3* are all examples of variables. Traditionally though it's common to place the *var* element at the beginning to designate that those characters are variables.
 
+![Variables](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Variable-Example.jpeg)
+
 **What does it mean to *declare* a variable**
 
 Declaring a variable occurs when the developer assigns information to the undeclared variable. For example if we simple create *var x=1* we have declared a variable X and given it the value of 1.
