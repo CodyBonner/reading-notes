@@ -45,4 +45,4 @@ Health Inspections: Pizza Hut restaurants are subject to regular health inspecti
 
 Food Allergen Management: Pizza Hut may have specific protocols to handle and prevent cross-contamination of allergenic ingredients to protect customers with food allergies.
 
-It's important to remember that food safety is taken seriously by reputable food chains, and they continuously update their practices to adhere to industry standards and regulations. For specific and up-to-date information on Pizza Hut's food safety standards, you should refer to official sources such as their website or reach out to the company directly.
+It's important to remember that food safety is taken seriously by reputable food chains, and they continuously update their practices to adhere to industry standards and regulations. For specific and up-to-date information on Pizza Hut's food safety standards, you should refer to official sources such as their website or reach out to the company directly
