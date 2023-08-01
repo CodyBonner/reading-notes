@@ -50,18 +50,18 @@ This site is to not only showcase my progress but to also be a backup of all tha
 
 [class 08](code-201/class-08.md)
 
-[class 02](code-201/class-09.md)
+[class 09](code-201/class-09.md)
 
-[class 03](code-201/class-10.md)
+[class 10](code-201/class-10.md)
 
-[class 04](code-201/class-11.md)
+[class 11](code-201/class-11.md)
 
-[class 05](code-201/class-12.md)
+[class 12](code-201/class-12.md)
 
-[class 06](code-201/class-13.md)
+[class 13](code-201/class-13.md)
 
-[class 07](code-201/class-14.md)
+[class 14](code-201/class-14.md)
 
-[class 08](code-201/class-15.md)
+[class 15](code-201/class-15.md)
 
 [Prompt Engineering](code-201/prompt-engineering.md)
