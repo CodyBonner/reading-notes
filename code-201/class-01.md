@@ -14,5 +14,5 @@ What is it, what uses it and why is this important?
 
 Within websites regardless of how they are constructed, sites use a form of formatting. In some instances the formatting may be done through an external CSS reference sheet aka an index of code dedicated to visual formats of the website. It could also be inclusive of items such as external scripts through javascript using a a *script* indicator. Well what does all of this mean? **parsing** is a method of instructions that websites use to control the information that's passed through it. It takes the batch of code and sends it over the network using the DOM and CSSOM methods to help create the image that is displayed to the user. A good example is take a camera, you as the user setup a list of controls(the settings of the camera) and when you hit capture. The camera takes those settings into consideration and then creates an image based around what settings you gave it. Same principle, the website takes into account all of the rules such as style sheets or scripts considers the rules that are involved with them and then passes it through in the form of text and images on the screen for the user to see. 
 
-[Parsing: HTML, CSS, JavaScript](parsing.md)
+[Parsing: HTML, CSS, Javascript](parsing.md)
 
