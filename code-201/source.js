@@ -9,7 +9,16 @@ function questionOne(){
 function questionTwo(){
   let q2 = prompt("What do you like to do for fun?");
   let a2 = q2;
-  alert("Interesting, so you like " + a2 + " I'd like to know more about that later..");
+  alert("Interesting, so you're " + a1 + "who likes " + a2);
   document.write("What do you like to do for fun? " +"Answer: " +a2);
+
+}
+
+
+function questionThree(){
+  let q3 = prompt("What job do you do?");
+  let a3 = q3;
+  alert("Ooo that's exciting having the job " + a3);
+  document.write("What job do you do? " +"Answer: " +a3);
 
 }
