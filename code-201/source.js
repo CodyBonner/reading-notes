@@ -3,4 +3,5 @@ function questionOne(){
   let a1 = q1;
   alert("Nice name!");
   document.write(a1);
+
 }
