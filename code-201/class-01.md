@@ -16,3 +16,54 @@ Within websites regardless of how they are constructed, sites use a form of form
 
 [Parsing: HTML, CSS, Javascript](parsing.md)
 
+**Adding Images to a website**
+
+There are a couple ways to add an image to your website, you can do it internally by allowing the image to be in the same directory as your source code and referencing it. Or you can reference it from it's origin source such as a website.
+
+
+#### Strings and Numbers in JavaScript
+
+To add a string inside of java we will type the variable type such as *let* give the variable a name such as *string* equals(=) *"Info desired to be a string"* combined it looks like *let stringName = "String information";*. Similar to a string numbers are assigned using most of the same information. For numbers it's *let Number = 5;* only difference is we don't include the quotation marks and it's a number versus a string.
+
+**What is a variable and why are they important?** 
+
+As mentioned above we use a variable for a majority of our code. Well what is a variable? it's quite simple, similar to how we learned in school, a variable is simply something we assign something to. Example: X = 5, X is the variable name. For things such as strings though we might use stringName as the variable name for a string. Variables are very important when it comes to setting up code in Javascript because it not only ensures that we edit the correct code when working on it, but it also ensures that code is used properly when storing information based on the websites functionality.
+
+[Introduction to HTML](HTML.md)
+
+##### Miscellaneous
+
+**What is the first step in making a website?** 
+
+Answer: Brainstorm!, You must first sit down and either with yourself or preferably with a group work out what you want your website to not only do but what you want it to look like. If you can't put it down on paper, or up in black and white, then no amount of expert coding will make a successful website.
+
+**What is the most important question to answer when designing a Website?** 
+
+Answer: How and will this website help me achieve my goal? If your goal is to open a restaurant, will making a website help that? Yes it could if done right, a website could be a phenomenal tool for showcasing a new restaurant!
+
+**Why should you use an <h1> element over a <span> element to display a top level heading?**
+
+Answer: The reason why you would want to use the h1 element versus a span element is that a h1 refers to a header, where as span is defined as an inlend section of code typically used for giving style to the line of text it preceeds. However an h1 has a default style for headers. Another notion is that h1 will be classified as the top level header on the site, and thus no other text unless forcefully made to do so through a specific style format, will preceed it's boldness to the website.
+
+**What are the benefits of using semantic tags in our HTML?**
+
+Semantics much like variables are a nifty way of explaining what a section of code does. As explained above the h1 will systematically make the following text take on the pre styled characteristics of a top level header. So h1 will signify that the text is the largest and boldest text on the screen unless otherwised styled by extra code. This helps seperate certain aspects especially ones that share similar intentions such as multiple paragraphs or multiple headers.
+
+**Describe two things that *require* Javascript in a browser**
+
+Something commonly seen on websites that requires Javascript is an interactive map such as google maps. Things such as animated images such as gifs, or 3D renditions that appear on screen also use Javascript to show on the site. Javascript is commonly used for all aspects of a website as it's the third building block of website building following HTML and CSS, HTML for site creation, CSS for style and Javascript to make it all work together and run!
+
+
+
+
+
+
+
+**Things I want to know more about**
+
+Which types of meta data is important and which isn't?
+
+Can the parsing sequence break and if so, how do we fix it?
+
+Is there a way to know when it's appropriate to use an image versus explaining in text format?
+
