@@ -53,10 +53,7 @@ Semantics much like variables are a nifty way of explaining what a section of co
 
 Something commonly seen on websites that requires Javascript is an interactive map such as google maps. Things such as animated images such as gifs, or 3D renditions that appear on screen also use Javascript to show on the site. Javascript is commonly used for all aspects of a website as it's the third building block of website building following HTML and CSS, HTML for site creation, CSS for style and Javascript to make it all work together and run!
 
-
-
-
-
+[Check out this cool site!](lab-01.html)
 
 
 **Things I want to know more about**
