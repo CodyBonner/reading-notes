@@ -3,10 +3,10 @@
 function questionOne(){
    let q1 = prompt("What is your name?");
    let a1 = q1;
+   document.write("What is your name? " +"Answer: " +a1);
+   
+  }
   alert("Nice name! Nice to meet you " + a1);
-  document.write("What is your name? " +"Answer: " +a1);
-
-}
 
 function questionTwo(){
    let q2 = prompt("What do you like to do for fun?");
