@@ -1,17 +1,16 @@
-let a1;
-let a2;
+
 
 function questionOne(){
    let q1 = prompt("What is your name?");
-   a1 = q1;
+   let a1 = q1;
   alert("Nice name! Nice to meet you " + a1);
   document.write("What is your name? " +"Answer: " +a1);
 
 }
 
 function questionTwo(){
-   q2 = prompt("What do you like to do for fun?");
-   a2 = q2;
+   let q2 = prompt("What do you like to do for fun?");
+   let a2 = q2;
   alert("Interesting, so you're " + a1 + "who likes " + a2);
   document.write("What do you like to do for fun? " +"Answer: " +a2);
 
