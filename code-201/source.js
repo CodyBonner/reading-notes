@@ -11,7 +11,7 @@ function questionOne(){
 function questionTwo(){
    let q2 = prompt("What do you like to do for fun?");
    let a2 = q2;
-  alert("Interesting, so you're " + a1 + "who likes " + a2);
+  alert("Interesting, so you like" + a2);
   document.write("What do you like to do for fun? " +"Answer: " +a2);
 
 }
