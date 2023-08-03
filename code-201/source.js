@@ -21,3 +21,14 @@ function questionOne(){
   function alertOne(){
     alert("So you're name is " + a1);
   }
+
+  function questionTwo(){
+     q2 = prompt("What do you do for work?");
+     a2 = q2;
+    document.write("What is your name? " +"Answer: " +a2);
+  
+  }
+  
+  function alertTwo(){
+    alert("Nice!" + a1 + "," + a2 + "Sounds like a very interesting job")
+  }
