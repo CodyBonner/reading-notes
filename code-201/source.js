@@ -9,7 +9,6 @@ let a3;
 let a4;
 
 
-
 function questionOne(){
     q1 = prompt("What is your name?");
     a1 = q1;
@@ -30,5 +29,5 @@ function questionOne(){
   }
   
   function alertTwo(){
-    alert("Nice!" + a1 + "," + a2 + "Sounds like a very interesting job")
+    alert("Nice! " + a1 + "," + a2 + " Sounds like a very interesting job")
   }
