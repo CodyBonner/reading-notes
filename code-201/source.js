@@ -17,3 +17,7 @@ function questionOne(){
    document.write("What is your name? " +"Answer: " +a1);
    
   }
+
+  function alertOne(){
+    alert("So you're name is " + a1);
+  }
