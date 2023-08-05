@@ -21,3 +21,11 @@ It's counterpart also known as the *sub* or subscript will more often than not a
 To understand this, we need to know what the element *abbr* stands for. In this instance it may be pretty obvious to some but not so much to others. Abbr is an abrbreviation for the element abbreviation. What it does is provide a hint to users on what the information is containing. Such as HTML standing for Hypertext Markup Language, or NASA for National Aeronautics and Space Administration. However something to keep in mind that to use this we must rememeber to include a full expansion of the term in plain text on it's first useage. 
 
 [How CSS is Structured](CSSBasics.md)
+
+## Things I want to know more about
+
+Are there any limitations to using the abbreviation element? Or can we come up with our own abbreviations?
+
+Can abbreviations be stylized like other bodies of text?
+
+Is there a way to change inline styling to where it's not as bad to use?
