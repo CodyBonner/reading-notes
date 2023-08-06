@@ -20,4 +20,4 @@ Something to note, if there's no defined style to indicate which type of bullet 
 
 This one is dependent on your definition of changing the numbers, there's the uncommon way known as *reversed* which will keep the order of the items but it will reverse their order number starting with highest and going down to lowest. Or similar to our unordered list there's types that can be set up. There's *a* for lowercase letter orders, *i* for lowercase Roman numerals or the standard *1* for indicating numbers, however for this last one we don't typically have to assign this as it's usually the default for an ordered list. 
 
-[The Box Model](code-201/sourceFiles/BoxModel.html)
+[The Box Model](sourceFiles/BoxModel.html)
