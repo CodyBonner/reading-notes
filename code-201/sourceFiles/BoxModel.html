@@ -3,22 +3,54 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Box Model</title>
   
   <style>
      body{
       background-color: antiquewhite;
     }
 
-    main{
-      background-color: blueviolet;
+    #MarginPadding{
+      color: #474973;
+      font-size: 18px;
     }
+    
+
+   #Margins{
+    margin-top: 2px;
+    color: black;
+   }
+   #Padding{
+    padding-left: 3px;
+    padding-right: 3px;
+    color: black;
+   }
 
     #TheBoxModel{
       color:blue;
       font-size: 20px;
     }
 
-   
+    #modelBox{
+      color: #474973;
+      font-size: 18px;
+    }
+
+    #BoxModel{
+      color:black;
+    }
+
+    #boxExample{
+      margin-left: 118px;
+      inline-size: 20em;
+      border-style: solid;
+      margin-top: 10px;
+      padding: 2px;
+
+      text-align: center;
+      color: black;
+    }
+
   </style>
 
 </head>
@@ -28,9 +60,49 @@
 </header>
 
 <body>
-
   <main>
-    This is the main of the text area
+    
+    <h1 id = MarginPadding> Describe Margin and padding as characters, create a story and tell their roles in relation to the box model. </h1>
+    <section id = "Margins">
+      <p>
+        Margin also known as the knights of the round table protect the perimeter of the castle also known as "The Box Model" Their role is to push out invading elements and keep them away from the box. However much like real knights they can have both positive and negative core values. Setting up a knight with a negative value can have dangerous consequences like overlapping elements within the Box. Whether or not you intend to use standard knights or alternative ones, Margins always get added after the initial visible perimeter of the box has been established.
+      </p>
+    </section>
+
+    <section id = "Padding">
+      <p>
+        Padding while similar to the valient knights of margins, actually serves a different role when it comes to the round table. Padding sits between the border and the content area but much like margins it pushes other envading content away from itself. However the difference between the two is that borders cannot have a negative amount. So unlike margins if you were to set up a background color then the color would be displayed behind the padding. Much like setting up a frame around the color. Padding is also in charge of controlling this on all four sides of the element in question. 
+      </p>
+    </section>
+
+      <h2 id = "modelBox"> What are the four parts of an HTML box model?</h2>
+    <section id = "BoxModel">
+      <p>
+        The four parts of an HTML box model include the following: 
+        <ul>
+          <li>
+            Content Box: The area where content will be displayed.
+          </li>
+            <li>
+              Padding Box: The padding that sits around the content as white space. 
+            </li>
+
+            <li>
+              Border Box: Wraps around the content and any padding associated with said content. 
+            </li>
+
+            <li>
+              Margin Box: This is the outermost layer, wraps around the content, padding, and border as white space between this box and other elements. 
+            </li>
+        </ul>
+      </p>
+
+    </section>
+
+    <section id = boxExample>
+
+      This is content for the box example. As the content of this box increases the size of the box increases as well. However this box can also be preset to a much larger scale.
+    </section>
   </main>
   
 </body>
