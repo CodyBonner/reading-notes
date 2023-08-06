@@ -31,3 +31,10 @@ function questionOne(){
   function alertTwo(){
     alert("Nice! " + a1 + "," + a2 + " Sounds like a very interesting job")
   }
+
+
+
+
+
+
+  
