@@ -43,3 +43,9 @@ Font size is just as it sounds, it's the size the font on the webpage will yield
 
 Letter spacing and word spacing are typically used here when you want spacing between letters and words in a text. Word spacing as it sounds will allow the developer (that's you) to assign a set of space between each word used in this h1, where as if you want it to look funky, you can use letter spacing and preset spaces between each letter in each word. 
 
+
+### Things I want to know more about
+
+The different ways images work, and i'd like to know more about what images can and cannot have done to them in regards to actions upon user click.
+
+I'd also like to know what more can be done using letter and word spacing and if they hold any significant value when it comes to styling a webpage.
