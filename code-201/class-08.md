@@ -21,3 +21,7 @@ Some major things that are an advantage to using flexbox over float, is one of t
 **How does this topic connect with your long term goals?**
 
 This content will help with long term goals as it'll help me with controlling visual layout of the webpage on a more specific level, and I can also start including side bars in my webpages so that way they don't just look like plain informational webpages. They can actually look professional and appealing to the future user.
+
+### Things I want to know
+
+I want to know more about how to influence the DOM using javascript with the hope I can incorporate my own twist to alerts instead of it being basic text alerts.
