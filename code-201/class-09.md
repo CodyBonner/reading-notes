@@ -28,6 +28,7 @@ The event object is typically inside of an event handler. It's most commonly see
 
 Event bubbling is how the default browser will respond to the targeted events especially at the nested elements. This is typically what fires first on the inner nested level as well. Event capturing is the flip side to this, it'll fire in the same way, but instead of firing on the inner most element, it'll fire on the outermost element and work it's way inside to the inner most element. 
 
+
 ## Things I want to know more about
 
 Are there any limitations on the way event's can be customized? Such as can events be triggered by a random work through of the site instead of using a check box or text field?
