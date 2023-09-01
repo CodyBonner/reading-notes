@@ -24,3 +24,9 @@ A breakpoint is a set point in the code where you as the developer want the code
 **What is the call stack?**
 
 A call stack is a section of code that has already run, it will often be seen on the console because it is paired with a code line to indicate where the code made it up to before something went wrong or where the code stopped producing valid results.
+
+## Things I want to know
+
+Will adding breakpoints disrupt the local code and result in it breaking? 
+
+Can we define call stacks and impliment them like functions?
